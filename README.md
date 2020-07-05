@@ -2,7 +2,7 @@ This project was created for learn [ReactJS](https://reactjs.org/) and [Sequeliz
 
 ## Scripts
 
-First of all this project need [NodeJS](https://nodejs.org/en/):
+First of all, this project need [NodeJS](https://nodejs.org/en/):
 
 ### `Package`
 
