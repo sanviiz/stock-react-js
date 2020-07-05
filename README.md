@@ -10,13 +10,13 @@ Run `npm i` command in path `../stock-react-js` and `../stock-react-js/backend` 
 
 ### `Front-end`
 
-Go back to main project directiory(`../stock-react-js`) and then run `npm start`.<br />
+Go back to main project directory(`../stock-react-js`) and then run `npm start`.<br />
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
 ### `Back-end`
 
-Next, Run `cd ../stock-react-js/backend` and then run `nodemon server.js` to create `database` for this project.
+Next, Go to `backend` directory(`../stock-react-js/backend`) and then run `nodemon server.js` to create `database` for this project.
 Anyway, This project use `SQLite` as database.<br />
 You can use [DB Browser](https://sqlitebrowser.org/) to open `database.sqlite` file to see all detail in database.
 
