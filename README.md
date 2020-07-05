@@ -17,6 +17,7 @@ Open http://localhost:3000 to view it in the browser.
 ### `Back-end`
 
 Next, Run `cd` to `../stock-react-js/backend` and then run `nodemon server.js` to create `database` for this project.<br />
-
 Anyway, This project use `SQLite` as database.<br />
 You can use [DB Browser](https://sqlitebrowser.org/) to open `database.sqlite` file to see all detail in database.
+
+have fun :)
